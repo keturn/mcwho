@@ -1,0 +1,4 @@
+characteristic==14.3.0
+filepath==0.1
+mcstatus==2.1
+NBT==1.4.1
